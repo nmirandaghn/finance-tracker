@@ -38,7 +38,7 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-gem 'stock_quote'
+gem 'stock_quote', '~> 3.0.0'
 gem 'font-awesome-rails'
 
 group :development, :test do
